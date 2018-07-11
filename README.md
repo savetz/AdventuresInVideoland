@@ -1,5 +1,5 @@
 # AdventuresInVideoland
-Adventures In Videoland (AKA Rollercoaster) from Creative Computing magazine, by David Lubar. For the Apple II comptuter.
+Adventures In Videoland (AKA Rollercoaster) from Creative Computing magazine, by David Lubar. For the Apple II computer.
 
 First appeared in Creative Computing v8n1 (January 1982.)
 See https://archive.org/stream/creativecomputing-1982-01/Creative_Computing_v08_n01_1982_January#page/n61/mode/1up/
