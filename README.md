@@ -18,6 +18,6 @@ compatable laserdisc player. Fixed bugs, added a title screen, but true to the o
 ROLLERCOASTER-DVD. Modified to work with a Pioneer DVD-V8000 DVD player. Made a few small changes that
 pleased me.
 
-VIDEODISC_ADVENTURE_-_DISK_1__SIDE_A.woz and related files. Learned month later that Creative Computing also published the adventure on disk, including cool intro screens not present in the type-in magazine version. May contain other differenes, too, who knows! Thanks to the National Videogame Museum for the disk images!
+VIDEODISC_ADVENTURE_-_DISK_1__SIDE_A.woz and related files. Learned months later that Creative Computing also published the adventure on disk, including cool intro screens not present in the type-in magazine version. May contain other differenes, too, who knows! Thanks to the National Videogame Museum for the disk images!
 
 -Kevin Savetz https://twitter.com/kevinsavetz
