@@ -12,7 +12,7 @@ probably contains typos and defintiely contains a few bugs. This version can be 
 Omniscan videodisc interface by Aurora Systems along with a Pioneer VP-1000 laserdisc player,
 using the DiscoVision version of the Rollercoaster movie.
 
-ROLLERCOASTER-2018 includes updates by Kevin Savetz. Modified to work with a Pioneer LD-V2200 or
+ROLLERCOASTER-2018 includes updates by Kay Savetz. Modified to work with a Pioneer LD-V2200 or
 compatable laserdisc player. Fixed bugs, added a title screen, but true to the original.
 
 ROLLERCOASTER-DVD. Modified to work with a Pioneer DVD-V8000 DVD player. Made a few small changes that
@@ -20,4 +20,4 @@ pleased me.
 
 VIDEODISC_ADVENTURE_-_DISK_1__SIDE_A.woz and related files. Learned months later that Creative Computing also published the adventure on disk, including cool intro screens not present in the type-in magazine version. May contain other differenes, too, who knows! Thanks to the National Videogame Museum for the disk images!
 
--Kevin Savetz https://twitter.com/kevinsavetz
+-Kay Savetz https://twitter.com/kaysavetz
